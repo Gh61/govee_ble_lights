@@ -1,3 +1,6 @@
+## This fork
+This would be my take on `H6099` & possible `H6097` - **Govee TV Backlight 3 Lite** _(also known as Govee T3 Lite)_
+ 
 # Govee BLE Lighting Integration for HomeAssistant
 
 ![Govee Logo](assets/govee-logo.png)
