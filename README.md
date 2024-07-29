@@ -1,5 +1,12 @@
 ## This fork
 This would be my take on `H6099` & possible `H6097` - **Govee TV Backlight 3 Lite** _(also known as Govee T3 Lite)_
+
+Actually working (with `H6102` profile):
+- turning ON
+- turning OFF
+- changing Color
+- changing Brightness (looks like the values are little bit off - aren't the values logarithmic?)
+
  
 # Govee BLE Lighting Integration for HomeAssistant
 
